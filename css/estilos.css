@@ -7,3 +7,19 @@ h1{
 	color:red;
 	text-align:center;
 }
+
+
+
+footer p{
+	font-style: italic;
+	text-align: center;
+
+}
+
+
+.holder{
+	max-width: 960px; /* colocar la maxima resolucion de ancho */
+	margin: 0 auto ; /* alto y bajo 0 y laterales automaticos */
+
+}
+
