@@ -31,3 +31,14 @@ footer p{
 	vertical-align: top;
 	width: 40%;
 }
+
+
+/*bordes de cajas de texto */
+.forma input, .forma textarea{
+	background: #10F5E2;
+	border-radius: 5px;
+	border: 1px solid green;
+	font-size: .8em; /*fuente que va ir dentro de  la caja */
+	padding: .4em .6em;
+	width: 80%;
+}
