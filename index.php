@@ -5,6 +5,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Trabajo Practico Quimica</title>
 	<link rel="stylesheet" href="css/estilos.css">
+	<script src="javascript/javascript.js"></script>
+
 </head>
 <body>
 	<h1> Propiedades Quimicas de los elementos </h1>
